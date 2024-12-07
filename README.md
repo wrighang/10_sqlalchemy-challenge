@@ -1,8 +1,8 @@
 # 10_sqlalchemy-challenge
 
-Climate Analysis: [climate_analysis.ipynb Completed Assignment](.surfsup/climate_analysis.ipynb)
+Climate Analysis: [climate_analysis.ipynb Completed Assignment]([https://https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_analysis.ipynb](https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_analysis.ipynb)
 
-Climate App: [climate_app.py Completed Assignment]([surfsup/climate_app.py](https://github.com/wrighang/10_sqlalchemy-challenge/blob/915effd1c5de5c087b710315016038abf7a65f16/surfsup/climate_app.py))
+Climate App: [climate_app.py Completed Assignment](https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_app.py)
 
 ## Instructions
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following outlines the requirements for this assignment.
