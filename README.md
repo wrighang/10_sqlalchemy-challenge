@@ -1,5 +1,9 @@
 # 10_sqlalchemy-challenge
 
+Climate Analysis: [climate_analysis.ipynb Completed Assignment](.surfsup/climate_analysis.ipynb)
+
+Climate App: [climate_app.py Completed Assignment](.surfsup/climate_app.py)
+
 ## Instructions
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following outlines the requirements for this assignment.
 
@@ -82,4 +86,23 @@ To receive full credit, your code must:
 
 Overall Approach
 
+- Referenced activity assignments and Xpert Learning Assistant for guidance throughout the challenge, paying close attention to proper indentation in the Climate App code. Some areas of guidance listed below:
 
+- Climate Analysis
+
+* Looked up how to convert strings to datetime objects for date calculations, ensuring accurate implementation of code. For example, 
+one_year_ago = dt.datetime.strptime(most_recent_date, "%Y-%m-%d") - dt.timedelta(days=365)
+
+* Used SQL queries with Pandas to inspect database tables. For example: data = pd.read_sql("SELECT * FROM measurement", engine)
+
+* Referenced activities to calculate min, max, and average temperatures and reviewed histogram plotting for visualizations.
+
+* Looked up how to create the temperate symbol (option + shift + 8 = °)
+
+- Climate App
+
+* Researched how to structure 404 error messages. For example:    
+    if most_recent_date is None:
+                return jsonify({"error": "No data available."}), 404
+
+* The wording for the /start and /start_end routes was initially confusing, so I clarified these requirements using Xpert Learning Assistant. I provided examples in the landing page response to guide users. For example: /api/v1.0/start_end/2010-10-10_2010-12-24
