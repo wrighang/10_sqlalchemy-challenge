@@ -1,6 +1,6 @@
 # 10_sqlalchemy-challenge
 
-Climate Analysis: [climate_analysis.ipynb Completed Assignment]([https://https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_analysis.ipynb](https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_analysis.ipynb)
+Climate Analysis: [climate_analysis.ipynb Completed Assignment]([https://https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_analysis.ipynb] (https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_analysis.ipynb)
 
 Climate App: [climate_app.py Completed Assignment](https://github.com/wrighang/10_sqlalchemy-challenge/blob/main/surfsup/climate_app.py)
 
